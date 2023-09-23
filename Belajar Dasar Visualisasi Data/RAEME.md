@@ -1,6 +1,6 @@
 # Belajar Dasar Visual data
 1. Pendahuluan
-    * [Pengantar Kelas]()
+    * [Pengantar Kelas](/Belajar%20Dasar%20Visualisasi%20Data/Pendahuluan/Pengantar%20Kelas.md)
     * [Media Visualisasi Data]()
     * [Tools dalam Visualisasi Data]()
     * [Konteks Data]()
