@@ -4,7 +4,7 @@
     * [Media Visualisasi Data](/Belajar%20Dasar%20Visualisasi%20Data/Pendahuluan/Media%20Visualisasi%20Data,.md)
     * [Tools dalam Visualisasi Data](/Belajar%20Dasar%20Visualisasi%20Data/Pendahuluan/Tools%20dalam%20Visualisasi%20Data.md)
 2. Persiapan data pra
-    * [Dasar Spreadsheet/Excel]()
+    * [Dasar Spreadsheet/Excel](/Belajar%20Dasar%20Visualisasi%20Data/Persiapan%20data%20pra/Dasar.md)
     * [Elemen Title Bar dan File, Edit, View pada Menu Bar Google Sheets]()
     * [Elemen pada Excel]()
     * [Operator]()
